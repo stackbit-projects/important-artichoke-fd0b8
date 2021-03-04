@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    subtitle: dfgdg lorem-ipsum
+    subtitle: sfdsfdorem-ipsum
     col_number: three
     is_numbered: false
     grid_items: []
